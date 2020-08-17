@@ -13,7 +13,7 @@ body.dark {
 }
 
 h1, h2 {
-    text-align: center;
+    text-align: left;
     font-family: 'Archivo', sans-serif;
     margin: 0;
     padding: 0;
@@ -147,7 +147,7 @@ img {
 }
 
 p.choice {
-    text-align: center;
+    text-align: left;
     line-height: 1.7em;
 }
 
@@ -165,7 +165,7 @@ p.choice a {
      The End # CLASS: end
 */
 .end {
-    text-align: center;
+    text-align: left;
     font-weight: bold;
     color: black;
     padding-top: 20px;
